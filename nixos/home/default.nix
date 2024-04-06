@@ -10,6 +10,11 @@
       btop
       rofi
       prismlauncher
+      hyprland
+      foot
+      firefox
+      nvim
+      mako
     ];
  };
  programs.home-manager.enable = true;
